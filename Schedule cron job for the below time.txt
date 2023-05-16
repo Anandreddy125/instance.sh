@@ -1,0 +1,24 @@
+Schedule cron job for the below timings.
+Exercise Crontab Entries :
+1. April 5th Midnight
+To set a cron job to run at midnight on April 5th.
+To follow the Steps.
+0 0 5 4 *
+
+5 th of Every November,Jan,June if it is a Thursday
+0 0 5 11,1,6 *
+At 05 and 27th minutes of 9,10,11 hours everyday
+5,27 9-11 * * *
+15th second of 34 min. of 9th hour on 15th Aug
+15 34 9 15 8 *
+Every midnight
+0 0 * * *
+Every Weekend ( Saturday night 11.59 )
+59 23 * * 6
+
+
+
+
+
+
+
